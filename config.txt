@@ -1,0 +1,6 @@
+owner=255429901891403778
+prefix=E
+game=So
+stayinchannel=true
+songinstatus=false
+token=NjE2MjA3NjA4MjM5MzU3OTk2.XWZOVg.CwTonVbYsMFkn8Aoqd6N7u6kXQE
